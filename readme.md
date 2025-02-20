@@ -97,8 +97,6 @@ This lab successfully applied **feature engineering techniques**, including hand
 
 ---
 
-## GitHub Repo URL:
-
 ## References
 
 OpenAI. (2024). _ChatGPT (February 2025 version)_. [OpenAI](https://openai.com)
