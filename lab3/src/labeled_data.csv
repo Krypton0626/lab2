@@ -1,0 +1,13 @@
+Index,Label,Annotation,Sampling_Method
+=== Cluster Sampling ===,,,Cluster Sampling
+0,Valid,"Ride from Haymarket Square to North Station, Price: 5.0",Cluster Sampling
+,,,
+=== Random Sampling ===,,,Random Sampling
+0,Valid,"Ride from Financial District to Fenway, Price: 7.0",Random Sampling
+,,,
+=== Stratified Sampling ===,,,Stratified Sampling
+0,Valid,"Ride from Financial District to Fenway, Price: 7.0",Stratified Sampling
+,,,
+=== Systematic Sampling ===,,,Systematic Sampling
+0,Valid,"Ride from Haymarket Square to North Station, Price: 5.0",Systematic Sampling
+,,,
